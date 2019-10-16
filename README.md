@@ -1,2 +1,2 @@
-# bibbase.github.io
-BibBase Example Page
+# delibrarian.github.io/scsuauthors.github.io/
+Based on the BibBase Example Page
